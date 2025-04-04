@@ -2,4 +2,7 @@
 
 A simple 2D controller that chases a runner.
 
-![SimpleController](img/SimpleController.png)
+- Fixed path chasing:
+	![SimpleController](img/SimpleControllerFixed.png)
+- Free path chasing:
+	![SimpleController](img/SimpleControllerFree.png)
